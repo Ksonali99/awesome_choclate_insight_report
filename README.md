@@ -49,7 +49,7 @@ I created a new measure to show multiple KPIs using a card visual. This allows m
 3. Shipments by Boxes
 * A histogram visualizes the distribution of box shipments. Most shipments are below 500 units, but there are outliers above 1500.
 4. Salesperson Performance Table
-* Columns include:
+ Columns include:
 * Salesperson Profile (with photo)
 * Sales in dollars
 * Profit in dollars
